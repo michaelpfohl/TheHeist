@@ -1,0 +1,13 @@
+C:\Users\rmpfo\source\repos\TheHeist\TheHeist\bin\Debug\netcoreapp3.1\TheHeist.exe
+C:\Users\rmpfo\source\repos\TheHeist\TheHeist\bin\Debug\netcoreapp3.1\TheHeist.deps.json
+C:\Users\rmpfo\source\repos\TheHeist\TheHeist\bin\Debug\netcoreapp3.1\TheHeist.runtimeconfig.json
+C:\Users\rmpfo\source\repos\TheHeist\TheHeist\bin\Debug\netcoreapp3.1\TheHeist.runtimeconfig.dev.json
+C:\Users\rmpfo\source\repos\TheHeist\TheHeist\bin\Debug\netcoreapp3.1\TheHeist.dll
+C:\Users\rmpfo\source\repos\TheHeist\TheHeist\bin\Debug\netcoreapp3.1\TheHeist.pdb
+C:\Users\rmpfo\source\repos\TheHeist\TheHeist\obj\Debug\netcoreapp3.1\TheHeist.csprojAssemblyReference.cache
+C:\Users\rmpfo\source\repos\TheHeist\TheHeist\obj\Debug\netcoreapp3.1\TheHeist.AssemblyInfoInputs.cache
+C:\Users\rmpfo\source\repos\TheHeist\TheHeist\obj\Debug\netcoreapp3.1\TheHeist.AssemblyInfo.cs
+C:\Users\rmpfo\source\repos\TheHeist\TheHeist\obj\Debug\netcoreapp3.1\TheHeist.csproj.CoreCompileInputs.cache
+C:\Users\rmpfo\source\repos\TheHeist\TheHeist\obj\Debug\netcoreapp3.1\TheHeist.dll
+C:\Users\rmpfo\source\repos\TheHeist\TheHeist\obj\Debug\netcoreapp3.1\TheHeist.pdb
+C:\Users\rmpfo\source\repos\TheHeist\TheHeist\obj\Debug\netcoreapp3.1\TheHeist.genruntimeconfig.cache
